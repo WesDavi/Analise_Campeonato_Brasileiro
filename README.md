@@ -28,6 +28,9 @@ Caso deseje executar em máquina local realize a clonagem do repositório e as m
 shell
 $ git clone https://github.com/WesDavi/Analise_Campeonato_Brasileiro
 
+## Link Para Download do Dataset
+
+https://drive.google.com/file/d/1w0QEoTr_31iLxh-UE9T6_N7v2Vy4YAPQ/view?usp=sharing
 
 ## Resultados
 
